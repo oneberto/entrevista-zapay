@@ -6,12 +6,12 @@ https://www.figma.com/design/Ldo3CQbszUvDSVjABKcumm/Untitled?node-id=0-1&p=f&t=R
 
 ## Critérios de aceite
 
-1 - Usuário deve conseguir visualizar os débitos pendentes de pagamento
-2 - Usuário deve conseguir selecionar e desselecionar os débitos
-3 - Usuário deve conseguir visualizar o total dos débitos selecionados
-4 - O botão Continuar deve exibir uma mensagem de alerta com o total dos débitos selecionados
-5 - O botão Continuar deve ficar desabilitado quando não existirem débitos selecionados
-6 - O usuário deve conseguir visualizar a tela exatamente como está no Figma (Pixel Perfect)
+- Usuário deve conseguir visualizar os débitos pendentes de pagamento
+- Usuário deve conseguir selecionar e desselecionar os débitos
+- Usuário deve conseguir visualizar o total dos débitos selecionados
+- O botão Continuar deve exibir uma mensagem de alerta com o total dos débitos selecionados
+- O botão Continuar deve ficar desabilitado quando não existirem débitos selecionados
+- O usuário deve conseguir visualizar a tela exatamente como está no Figma (Pixel Perfect)
 
 ## Observações técnicas
 
