@@ -1,5 +1,3 @@
-![logo Zapay](./public/logo.svg)
-
 # Entrevista Zapay
 
 Como usuário eu quero poder visualizar os débitos pendentes de pagamento do meu veículo.
